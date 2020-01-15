@@ -1,0 +1,27 @@
+h1{
+    color:rgb(21, 21, 58);
+    text-decoration: underline;
+    text-align:center;
+    font-size:50PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color:slategrey;
+    text-decoration-thickness: dotted;
+    font-size:30px;
+    font-family: 'Arial Narrow';
+}
+disc{
+    list-style-type: strings;
+}
+ul{
+    line-height: 30px;
+    letter-spacing:1px;
+    column-count: 2;
+}
+body{
+    overflow:inline
+}
+*{
+    background-color:greenyellow
+}
